@@ -38,8 +38,20 @@
         app:srcCompat="@drawable/ic_action_name"
         android:id="@+id/imageView2"
         android:layout_marginTop="17dp"
-        android:layout_below="@+id/editTextNAme"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_below="@+id/editTextNAme" />
 
+<<<<<<< Updated upstream
+=======
+    <Button
+        android:text="Trythis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/textView"
+        android:layout_toEndOf="@+id/textView"
+        android:layout_marginLeft="83dp"
+        android:layout_marginStart="83dp"
+        android:id="@+id/button" />
+
+>>>>>>> Stashed changes
 </RelativeLayout>
